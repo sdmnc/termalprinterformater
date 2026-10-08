@@ -1,0 +1,9 @@
+Thermal receipt printers are small, cheap and quiet, which makes them handy for printing shopping lists, to-do notes and short reading material.
+
+The catch is the paper: a 58mm roll fits only about 32 characters per line, and the printer treats everything as one endless strip.
+
+This sample text is long enough to show how the formatter wraps each line at 32 characters, adds a header with the page number, closes each page with a footer and inserts a tear line between pages.
+
+Replace this file with your own text, run the program again, and a new formatted_receipt file will appear next to it without overwriting the previous one.
+
+Tip: blank lines in the input are kept, so paragraphs stay readable on paper.

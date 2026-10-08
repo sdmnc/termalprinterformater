@@ -1,0 +1,66 @@
+================================
+MY NOTES [Pg 1]
+================================
+Thermal receipt printers are sma
+ll, cheap and quiet, which makes
+ them handy for printing shoppin
+g lists, to-do notes and short r
+eading material.
+
+The catch is the paper: a 58mm r
+oll fits only about 32 character
+s per line, and the printer trea
+ts everything as one endless str
+ip.
+
+This sample text is long enough 
+to show how the formatter wraps 
+each line at 32 characters, adds
+ a header with the page number, 
+closes each page with a footer a
+nd inserts a tear line between p
+ages.
+
+Replace this file with your own 
+text, run the program again, and
+ a new formatted_receipt file wi
+ll appear next to it without ove
+rwriting the previous one.
+
+================================
+      END OF PAGE 1
+
+--- TEAR HERE ---
+
+================================
+MY NOTES [Pg 2]
+================================
+Tip: blank lines in the input ar
+e kept, so paragraphs stay reada
+ble on paper.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================
+      END OF PAGE 2
+.
